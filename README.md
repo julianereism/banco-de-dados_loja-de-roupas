@@ -23,11 +23,11 @@ Uma loja de roupas requer um banco de dados bem projetado para gerenciar eficien
 
 Este sistema de banco de dados oferece suporte para gerenciar efetivamente todas as operações de uma loja de roupas, desde o acompanhamento do estoque até o atendimento ao cliente e o registro de vendas. Ele ajuda a melhorar a eficiência e a tomada de decisões da loja, garantindo que os produtos certos estejam disponíveis para os clientes no momento certo.
 
-**Modelo entidade relacionadomento (MER)**
+**Modelo relacional (ME)**
 
 <a href="https://ibb.co/gvKM9TQ"><img src="https://i.ibb.co/LQ7zRtB/mr.png" alt="mr" border="0"></a>
 
-**Modelo relacional (MR)**
+**Modelo entidade relacionamento (MER)**
 
 <a href="https://ibb.co/mv3j8cC"><img src="https://i.ibb.co/6vkMBWR/mer.png" alt="mer" border="0"></a>
 
